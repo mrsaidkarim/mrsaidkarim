@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently **just learning**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python, Django**
 
 - 💬 Ask me about **anything related to C**
 
