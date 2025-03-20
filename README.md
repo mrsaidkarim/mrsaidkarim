@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently **just learning**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **anything related to C**
+- 💬 Ask me about **anything related to C and C++**
 
 - 📫 How to reach me **skarim@student.1337.ma**
 
